@@ -3,7 +3,12 @@
 Quartz plugin for Remark42 comments.
 
 ## Installing
-`quartz-plugin`: `quartz plugin add OCDkirby/remark42.quartz`
+`quartz-plugin`: 
+
+
+```sh
+$ quartz plugin add OCDkirby/remark42.quartz
+```
 
 manual: add `remark42.ts` to your `<repo dir>/quartz/plugins/transformers` and add this to your `quartz.plugins.ts`:
 
