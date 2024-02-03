@@ -1,0 +1,6 @@
+{
+  "name": "remark42",
+  "type": "transformer",
+  "version": "v1.2",
+  "head": "remark42.ts"
+}
