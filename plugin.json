@@ -1,6 +1,7 @@
 {
-  "name": "remark42",
+  "name": "Remark42",
   "type": "transformer",
   "version": "v1.2",
-  "head": "remark42.ts"
+  "head": "remark42.ts",
+  "default_config_ts": "{ host: 'https://comments.my-host.com', site_id: 'remark', theme: 'light', no_footer: true }"
 }
